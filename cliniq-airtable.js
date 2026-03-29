@@ -4,7 +4,7 @@
 //  <script src="cliniq-airtable.js"></script>
 // ============================================
 
-const AIRTABLE_TOKEN = "const AIRTABLE_TOKEN = "patPhE2Kdp9SiBL7L.54d9df1fb6f7866ba22a5b13c0577f589177bd52540312aa0e1f9f144509a538";
+const AIRTABLE_TOKEN = "patPhE2Kdp9SiBL7L.54d9df1fb6f7866ba22a5b13c0577f589177bd52540312aa0e1f9f144509a538";
 const BASE_ID        = "app2rp90JggQkKuSs";
 const API_URL        = `https://api.airtable.com/v0/${BASE_ID}`;
 
